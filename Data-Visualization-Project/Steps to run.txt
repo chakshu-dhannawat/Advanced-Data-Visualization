@@ -1,0 +1,2 @@
+Simply run the app(py file) using the below command:
+python Visualizing_K-means-app.py
